@@ -1,6 +1,6 @@
 # Hospital Admissions Data Analysis (MySQL)
 
-## Project Overview
+## Overview/ Description
 - This project focuses on analyzing hospital admission records using MySQL. 
 - The analysis includes exploratory data analysis (EDA), core operational insights, and advanced analytical queries to understand patient demographics, department performance, doctor workload, and admission trends.
 
